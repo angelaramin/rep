@@ -1,0 +1,162 @@
+
+.logo{
+	float:left;
+	margin: 10px 20px;
+
+}
+
+
+#header{
+	float:right;
+	margin: 10px 10px;
+
+}
+
+ul.navbar{
+	list-style-type: none;
+	margin-right: 20px;
+
+}
+
+ul.navbar li{
+	float:left;
+
+}
+	
+ul.navbar a{
+	font-family: Raleway, Sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+	color:#444444;
+	display: inline-block;
+	padding: 0 10px;
+}	
+
+ul.navbar a:hover{
+	color: #FCB909;
+}
+
+ body{
+ 	margin: 0 auto;
+
+}
+
+.bantitle{
+	position: absolute;
+	top: 90px;
+	left: 300px;
+	font-family: Raleway, Sans-serif;
+	color: white;
+	font-size: 65px;
+
+}
+
+#mainwrapper{
+	margin: 0 auto;
+	width: 1300px;
+
+}
+
+.banner{
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+.maincont{
+	width:1300px;
+	margin: 0 auto;
+}
+
+.container{
+	
+	width: 1100px;
+	
+	background: #FCB909;
+	float:right;
+}
+
+.container2{
+	
+	width: 1100px;
+	
+	background: #444444;
+	float:right;
+
+}
+.q-design{
+	float:left;
+	margin-left: 190px;
+	margin-top: 20px;
+
+
+}
+
+.textcontainer{
+	height:200;
+	width: 700px;
+	margin-left: 300px;
+	margin-bottom: 20px;
+	letter-spacing: 1.5px;
+
+}
+	
+ .yambao {
+        width: 200px;
+        height: 200px;
+        background-size: cover;
+        float:left;
+     
+       
+        background-image: url('imgs/johng.jpg');
+    }
+
+    .yambao:hover {
+        background-image: url('imgs/johng_hover.jpg');
+
+    }
+
+
+.quote{
+	font-family: Raleway, Sans-serif;
+	font-weight: bold;
+	color: white;
+
+}
+
+.intname{
+	font-family: Raleway, Sans-serif;
+	font-weight: bold;
+	color: white;
+	line-height: 0;
+}
+
+.info{
+	font-family: Raleway, Sans-serif;
+	color: white;
+	line-height: 20px;
+
+}
+
+.moreinfo{
+	font-family: Raleway, Sans-serif;
+	color: white;
+	font-size: 13px;
+}
+
+ .erebusa{
+        width: 200px;
+        height: 200px;
+        background-size: cover;
+      	float:left;
+        
+        margin-top:316px;
+       
+        background-image: url('imgs/ielene.jpg');
+    }
+
+    .erebusa:hover {
+        background-image: url('imgs/ielene_hover.jpg');
+
+    }
