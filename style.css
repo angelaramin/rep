@@ -95,6 +95,14 @@ ul.navbar a:hover{
 	float:right;
 
 }
+
+.container3{
+	
+	width: 1100px;
+	background: #FCB909;
+	float:right;
+
+}
 .q-design{
 	float:left;
 	margin-left: 190px;
@@ -107,7 +115,7 @@ ul.navbar a:hover{
 	height:200;
 	width: 700px;
 	margin-left: 300px;
-	margin-bottom: 20px;
+	margin-bottom: 25px;
 	letter-spacing: 1.5px;
 
 }
@@ -117,6 +125,7 @@ ul.navbar a:hover{
         height: 200px;
         background-size: cover;
         float:left;
+        transition: 300ms;
        
        
         background-image: url('imgs/johng.jpg');
@@ -162,7 +171,9 @@ ul.navbar a:hover{
         background-size: cover;
       	float:left;
         
-        margin-top:316px;
+        margin-top:321px;
+
+        transition: 300ms;
        
         background-image: url('imgs/ielene.jpg');
     }
@@ -170,4 +181,15 @@ ul.navbar a:hover{
     .erebusa:hover {
         background-image: url('imgs/ielene_hover.jpg');
 
+    }
+
+    .laxamana{
+        width: 200px;
+        height: 200px;
+        background-size: cover;
+      	float:left;
+        
+        margin-top:445px;
+       
+        background-image: url('imgs/jed_hover.jpg');
     }
