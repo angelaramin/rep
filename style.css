@@ -9,7 +9,16 @@
 #header{
 	float:right;
 	margin: 10px 10px;
+	
 
+}
+
+.header-container{
+	position: fixed;
+	top: 0;
+	right: 0;
+	background-color: white;
+	width: 100%;
 }
 
 ul.navbar{
@@ -45,7 +54,7 @@ ul.navbar a:hover{
 
 .bantitle{
 	position: absolute;
-	top: 90px;
+	top: 120px;
 	left: 300px;
 	font-family: Raleway, Sans-serif;
 	color: white;
@@ -60,6 +69,7 @@ ul.navbar a:hover{
 }
 
 .banner{
+	margin-top: 100px;
 	text-align: center;
 	padding-bottom: 20px;
 }
@@ -107,13 +117,14 @@ ul.navbar a:hover{
         height: 200px;
         background-size: cover;
         float:left;
-     
+       
        
         background-image: url('imgs/johng.jpg');
     }
 
     .yambao:hover {
         background-image: url('imgs/johng_hover.jpg');
+
 
     }
 
