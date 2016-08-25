@@ -79,15 +79,14 @@ ul.navbar a:hover{
 	margin: 0 auto;
 }
 
-.container{
+.john-container{
 	
 	width: 1100px;
-	
 	background: #FCB909;
 	float:right;
 }
 
-.container2{
+.ielene-container{
 	
 	width: 1100px;
 	
@@ -96,7 +95,7 @@ ul.navbar a:hover{
 
 }
 
-.container3{
+.jed-container{
 	
 	width: 1100px;
 	background: #FCB909;
@@ -105,7 +104,7 @@ ul.navbar a:hover{
 }
 .q-design{
 	float:left;
-	margin-left: 190px;
+	margin-left: 40px;
 	margin-top: 20px;
 
 
@@ -114,7 +113,7 @@ ul.navbar a:hover{
 .textcontainer{
 	height:200;
 	width: 700px;
-	margin-left: 300px;
+	margin-left: 150px;
 	margin-bottom: 25px;
 	letter-spacing: 1.5px;
 
@@ -189,7 +188,7 @@ ul.navbar a:hover{
         background-size: cover;
       	float:left;
         
-        margin-top:445px;
+        margin-top:440px;
        
         background-image: url('imgs/jed_hover.jpg');
     }
